@@ -1,0 +1,3 @@
+words = ["sad", "depressed", "unhappy", "angry", "miserable",'heartbroken','aggrieved','distressed', 'troubled', 'uneasy', 'unquiet', 'upset', 'worried'
+'despairing', 'hopeless',' sunk','disappointed', 'discouraged',' disheartened', 'dispirited','suicidal',
+'dolorous', 'lachrymose', 'lugubrious', 'plaintive', 'tearful','regretful', 'rueful','agonized', 'anguished','grieving', 'wailing', 'weeping','black','bleak','cheerless', 'comfortless', 'dark', 'darkening', 'depressing', 'desolate', 'dismal', 'drear', 'dreary', 'elegiac','elegiacal','funereal',' gray','grey',' morbid','morose', 'murky', 'saturnine', 'somber' ,'sombre', 'sullen']
